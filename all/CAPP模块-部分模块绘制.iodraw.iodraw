@@ -206,8 +206,8 @@
             <mxPoint x="46" y="16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="880" width="120" height="40" as="geometry" />
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-45" value="机床、刀具、切削参数结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="880" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
