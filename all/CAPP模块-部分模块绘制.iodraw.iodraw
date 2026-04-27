@@ -7,6 +7,9 @@
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=49;" vertex="1" parent="1">
           <mxGeometry x="-240" y="430" width="590" height="220" as="geometry" />
         </mxCell>
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP_4FMhfTb5tV0c7Ppqo-1" target="PP_4FMhfTb5tV0c7Ppqo-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-1" value="LLM 调度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -24,6 +27,9 @@
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-9" value="知识库适配器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-190" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PP_4FMhfTb5tV0c7Ppqo-10" target="PP_4FMhfTb5tV0c7Ppqo-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-10" value="schema" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="340" width="120" height="60" as="geometry" />
