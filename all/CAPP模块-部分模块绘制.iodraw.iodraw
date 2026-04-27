@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-1" value="LLM 统一提供" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
