@@ -54,12 +54,13 @@
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-17" value="切削参数模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="690" width="190" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;curved=1;" edge="1" parent="1" source="PP_4FMhfTb5tV0c7Ppqo-10" target="PP_4FMhfTb5tV0c7Ppqo-5">
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.145;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;curved=1;" edge="1" parent="1" source="PP_4FMhfTb5tV0c7Ppqo-10" target="PP_4FMhfTb5tV0c7Ppqo-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-13" y="400" />
               <mxPoint x="-13" y="540" />
               <mxPoint x="135" y="540" />
+              <mxPoint x="135" y="554" />
             </Array>
           </mxGeometry>
         </mxCell>
