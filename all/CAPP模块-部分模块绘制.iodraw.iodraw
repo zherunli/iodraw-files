@@ -16,6 +16,9 @@
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-5" value="配置文件&lt;div&gt;机床评分系数/LLM配置文件&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="435" y="580" width="150" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
