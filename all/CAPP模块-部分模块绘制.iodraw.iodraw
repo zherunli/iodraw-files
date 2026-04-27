@@ -169,8 +169,14 @@
             <mxPoint x="30" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.211;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PP_4FMhfTb5tV0c7Ppqo-9" target="PP_4FMhfTb5tV0c7Ppqo-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.211;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="PP_4FMhfTb5tV0c7Ppqo-9" target="PP_4FMhfTb5tV0c7Ppqo-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-100" y="420" />
+              <mxPoint x="430" y="420" />
+              <mxPoint x="430" y="687" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
