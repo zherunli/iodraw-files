@@ -74,8 +74,7 @@
             <mxPoint x="80" y="720" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="360" y="720" />
-              <mxPoint x="360" y="740" />
-              <mxPoint x="465" y="740" />
+              <mxPoint x="360" y="755" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -213,7 +212,7 @@
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-33" value="可达性" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PP_4FMhfTb5tV0c7Ppqo-32">
           <mxGeometry x="0.0699" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-145" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.344;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="PP_4FMhfTb5tV0c7Ppqo-11" target="PP_4FMhfTb5tV0c7Ppqo-15">
