@@ -272,6 +272,9 @@
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-66" value="功率校验与降额选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1300" y="740" width="180" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-68" value="功率校验与降额选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="820" width="180" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
