@@ -1,41 +1,41 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="sSGwd_0029kLNF3Ch3V-">
-    <mxGraphModel dx="1731" dy="2259" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1882" dy="2635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=49;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="390" width="590" height="220" as="geometry" />
+          <mxGeometry x="-240" y="430" width="590" height="220" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-1" value="LLM 调度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="150" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="-20" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-3" value="知识库&lt;div&gt;机床/刀具/参数等&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="510" width="150" height="80" as="geometry" />
+          <mxGeometry x="-205" y="550" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-4" value="LLM 服务&lt;div&gt;API/本地模型&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="135" y="510" width="150" height="80" as="geometry" />
+          <mxGeometry x="-35" y="550" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-5" value="配置文件&lt;div&gt;机床评分系数/LLM配置文件&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="305" y="510" width="150" height="80" as="geometry" />
+          <mxGeometry x="135" y="550" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-8" value="上游业务输入&lt;div&gt;零件/装夹/Operation/PMI/余量等&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="190" y="410" width="310" height="60" as="geometry" />
+          <mxGeometry x="20" y="450" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-9" value="知识库适配器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="-190" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-10" value="schema" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="-20" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-11" value="工艺审查规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;curved=1;" edge="1" parent="1" source="PP_4FMhfTb5tV0c7Ppqo-9" target="PP_4FMhfTb5tV0c7Ppqo-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="40" y="430" />
-              <mxPoint x="-13" y="430" />
+              <mxPoint x="-130" y="470" />
+              <mxPoint x="-183" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
