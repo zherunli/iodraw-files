@@ -248,8 +248,8 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-59" value="机床选择模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="480" y="270" width="180" height="130" as="geometry" />
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-59" value="切削模块输入（包含机床、刀具、知识库、上游输入内容）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="305" width="180" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
