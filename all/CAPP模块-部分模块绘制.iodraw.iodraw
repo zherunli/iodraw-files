@@ -43,6 +43,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-51" value="Workflow LLM 切削参数决策" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PP_4FMhfTb5tV0c7Ppqo-50">
+          <mxGeometry x="0.7946" y="-50" relative="1" as="geometry">
+            <mxPoint x="-46" y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-1" value="LLM 调度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry y="200" width="120" height="60" as="geometry" />
         </mxCell>
