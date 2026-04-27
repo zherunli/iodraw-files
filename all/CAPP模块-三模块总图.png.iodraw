@@ -266,8 +266,11 @@
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-64" value="转速、进给速度等参数公式计算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1300" y="585" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-65" value="转速、进给速度等参数公式计算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="595" width="180" height="50" as="geometry" />
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-65" value="功率校验与降额选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="660" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-66" value="功率校验与降额选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="670" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
