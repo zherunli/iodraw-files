@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=49;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="420" width="310" height="460" as="geometry" />
+          <mxGeometry x="1230" y="420" width="310" height="470" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=49;" vertex="1" parent="1">
           <mxGeometry x="-240" y="500" width="580" height="150" as="geometry" />
@@ -250,6 +250,9 @@
           <mxGeometry x="-0.4237" y="-6" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PP_4FMhfTb5tV0c7Ppqo-59" target="PP_4FMhfTb5tV0c7Ppqo-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-59" value="切削模块输入（包含机床、刀具、知识库、上游输入内容）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1300" y="305" width="180" height="95" as="geometry" />
