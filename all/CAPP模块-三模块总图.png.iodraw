@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="sSGwd_0029kLNF3Ch3V-">
-    <mxGraphModel dx="1720" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2108" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=49;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="420" width="320" height="560" as="geometry" />
+          <mxGeometry x="1220" y="420" width="320" height="460" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=49;" vertex="1" parent="1">
           <mxGeometry x="-240" y="500" width="580" height="150" as="geometry" />
@@ -274,6 +274,9 @@
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-68" value="LLM 策略选择，冷却方式、进退刀策略" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1300" y="820" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-69" value="组装切削参数输出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="900" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
