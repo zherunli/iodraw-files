@@ -20,7 +20,7 @@
           <mxGeometry x="435" y="580" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-8" value="上游业务输入&lt;div&gt;零件/装夹/Operation/PMI/余量等&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="190" y="480" width="310" height="60" as="geometry" />
+          <mxGeometry x="190" y="490" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-9" value="知识库适配器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="370" width="120" height="60" as="geometry" />
@@ -28,7 +28,7 @@
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-10" value="schema" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-11" value="工艺规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-11" value="工艺审查规则" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
