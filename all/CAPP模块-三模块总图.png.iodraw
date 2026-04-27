@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="sSGwd_0029kLNF3Ch3V-">
-    <mxGraphModel dx="1564" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2108" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -272,14 +272,26 @@
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-63" value="LLM根据工艺决策推断参数范围（精加工、粗加工等工艺角色）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1300" y="510" width="180" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP_4FMhfTb5tV0c7Ppqo-64" target="PP_4FMhfTb5tV0c7Ppqo-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-64" value="转速、进给速度等参数公式计算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1300" y="585" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP_4FMhfTb5tV0c7Ppqo-65" target="PP_4FMhfTb5tV0c7Ppqo-66">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-65" value="功率校验与降额选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1300" y="660" width="180" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP_4FMhfTb5tV0c7Ppqo-66" target="PP_4FMhfTb5tV0c7Ppqo-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-66" value="功率校验与降额选择" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1300" y="740" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP_4FMhfTb5tV0c7Ppqo-68" target="PP_4FMhfTb5tV0c7Ppqo-69">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-68" value="LLM 策略选择，冷却方式、进退刀策略" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1300" y="820" width="180" height="50" as="geometry" />
