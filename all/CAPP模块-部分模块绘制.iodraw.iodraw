@@ -80,7 +80,7 @@
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-43" value="PMI信息、余量信息、工艺角色等" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PP_4FMhfTb5tV0c7Ppqo-42">
           <mxGeometry x="0.3635" y="21" relative="1" as="geometry">
-            <mxPoint x="-21" y="-10" as="offset" />
+            <mxPoint x="-161" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-8" value="上游业务输入&lt;div&gt;零件/装夹/Operation/PMI/余量等&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -239,6 +239,9 @@
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-45" value="机床、刀具、切削参数结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="460" y="880" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PP_4FMhfTb5tV0c7Ppqo-45" target="PP_4FMhfTb5tV0c7Ppqo-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
