@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=49;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="430" width="770" height="240" as="geometry" />
+          <mxGeometry x="-240" y="430" width="580" height="220" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="PP_4FMhfTb5tV0c7Ppqo-1" target="PP_4FMhfTb5tV0c7Ppqo-14">
           <mxGeometry relative="1" as="geometry">
@@ -52,10 +52,10 @@
           <mxGeometry y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-3" value="知识库&lt;div&gt;机床/刀具/参数等&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-413" y="485" width="150" height="80" as="geometry" />
+          <mxGeometry x="-205" y="550" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-4" value="LLM 服务&lt;div&gt;API/本地模型&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="485" width="150" height="80" as="geometry" />
+          <mxGeometry x="-35" y="550" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-5" value="配置文件&lt;div&gt;机床评分系数/LLM配置文件&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="135" y="550" width="150" height="80" as="geometry" />
@@ -82,7 +82,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-8" value="上游业务输入&lt;div&gt;零件/装夹/Operation/PMI/余量等&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="20" y="450" width="280" height="60" as="geometry" />
+          <mxGeometry x="5" y="750" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PP_4FMhfTb5tV0c7Ppqo-9" target="PP_4FMhfTb5tV0c7Ppqo-10">
           <mxGeometry relative="1" as="geometry" />
@@ -113,12 +113,11 @@
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-11" value="工艺审查规则" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="150" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="PP_4FMhfTb5tV0c7Ppqo-9" target="PP_4FMhfTb5tV0c7Ppqo-3">
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;curved=1;" edge="1" parent="1" source="PP_4FMhfTb5tV0c7Ppqo-9" target="PP_4FMhfTb5tV0c7Ppqo-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-130" y="470" />
               <mxPoint x="-183" y="470" />
-              <mxPoint x="-183" y="525" />
             </Array>
           </mxGeometry>
         </mxCell>
