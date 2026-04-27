@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="sSGwd_0029kLNF3Ch3V-">
-    <mxGraphModel dx="2668" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3505" dy="1347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -249,7 +249,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-59" value="切削模块输入（包含机床、刀具、知识库、上游输入内容）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="305" width="180" height="130" as="geometry" />
+          <mxGeometry x="1300" y="305" width="180" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-60" value="切削模块输入（包含机床、刀具、知识库、上游输入内容）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="455" width="180" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="PP_4FMhfTb5tV0c7Ppqo-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=49;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="510" width="580" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
