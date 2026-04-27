@@ -42,9 +42,9 @@
         <mxCell id="PP_4FMhfTb5tV0c7Ppqo-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="PP_4FMhfTb5tV0c7Ppqo-8" target="PP_4FMhfTb5tV0c7Ppqo-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="397" y="480" />
-              <mxPoint x="397" y="470" />
-              <mxPoint x="465" y="470" />
+              <mxPoint x="175" y="440" />
+              <mxPoint x="460" y="440" />
+              <mxPoint x="460" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
